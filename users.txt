@@ -1,0 +1,4 @@
+admin,admin,19
+ya,ya,5
+boas,pessoal,3
+RICADICADINHO,RICADICADAO,1
